@@ -64,7 +64,7 @@ A futuristic, premium, and highly interactive frontend developer portfolio built
 
 ## 👨‍💻 Author
 
-**Ayush**
+**Ayush Yadav**
 - GitHub: [@ayush5136](https://github.com/ayush5136)
 - LinkedIn: [Ayush Yadav](https://www.linkedin.com/in/ayush-yadav-b2644022b/)
 - Email: thakuraayush536@gmail.com
